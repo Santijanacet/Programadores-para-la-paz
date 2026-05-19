@@ -1,0 +1,9 @@
+La relación principal radica en la responsabilidad compartida y el impacto de nuestras acciones dentro de una comunidad, ya sea social o técnica.
+
+1. Trazabilidad y Verdad: El uso responsable de la información en internet nos exige verificar fuentes y no propagar desinformación, fomentando una participación ciudadana ética. De manera similar, Git mantiene un historial claro y transparente (commits) de quién hizo qué y por qué, asegurando que los cambios técnicos estén fundamentados y sean verificables por otros.
+
+2. Trabajo Colaborativo: La participación ciudadana busca que las personas colaboren para construir una mejor sociedad. En el entorno técnico, Git organiza el trabajo de múltiples desarrolladores para que puedan aportar a un mismo proyecto sin sobrescribir o dañar el trabajo de los demás, fomentando la construcción colectiva de código.
+
+3. Impacto en el Entorno: Así como compartir una noticia falsa o actuar sin ética en internet contamina el flujo de información y afecta a la sociedad, introducir cambios irresponsables o no documentados en un repositorio de Git afecta la estabilidad del proyecto y al equipo de desarrollo. 
+
+En resumen, ambos escenarios exigen que actuemos como "buenos ciudadanos" (en la red o en un equipo de desarrollo), basándonos en la honestidad, la colaboración, la transparencia y pensando siempre en el bienestar y la estabilidad del entorno colectivo.
