@@ -1,0 +1,10 @@
+
+Saber usar la terminal aumenta la productividad al ejecutar tareas rápidamente.
+Permite navegar y manipular archivos sin depender de interfaces gráficas lentas.
+Es esencial para automatizar flujos con scripts y tareas repetitivas.
+Facilita el uso de herramientas de control de versiones como Git.
+Permite trabajar en servidores remotos y entornos sin GUI.
+Ayuda a configurar entornos, instalar dependencias y ejecutar builds.
+Mejora la capacidad de depuración mediante comandos directos y logs.
+Favorece la reproducibilidad y documentación de procesos de desarrollo.
+En conjunto, la terminal es una herramienta fundamental para la eficiencia profesional.
