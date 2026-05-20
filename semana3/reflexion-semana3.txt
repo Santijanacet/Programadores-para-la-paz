@@ -1,0 +1,8 @@
+﻿La herramienta Git permite mantener un historial claro de los cambios realizados en un proyecto.
+Esto facilita volver a versiones anteriores si aparece un error o se necesita revisar decisiones.
+El control de versiones favorece la colaboración, evitando pérdidas y conflictos en el trabajo compartido.
+Además, permite auditar quién hizo cada cambio y por qué, mejorando la trazabilidad.
+Registrar cambios mejora la organización y la planificación del desarrollo del proyecto.
+También facilita la integración continua y la entrega automatizada en entornos profesionales.
+Un historial bien mantenido acelera la resolución de problemas y la revisión de código.
+En conjunto, Git es una pieza clave para mantener proyectos sostenibles y confiables.
