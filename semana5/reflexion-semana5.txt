@@ -1,0 +1,8 @@
+Las APIs permiten que los datos se compartan de forma estructurada y automatizada entre diferentes plataformas.
+Una comunidad puede usar una API para enviar alertas y reportes en tiempo real desde cualquier dispositivo.
+De esta manera, la información no se pierde en mensajes dispersos y se guarda en un lugar central.
+Las APIs también ayudan a que los datos lleguen a todas las personas interesadas sin depender de un solo canal.
+Con una API, es posible filtrar reportes por tipo, ubicación o prioridad para actuar más rápido.
+Esto hace que la comunicación sea más clara y que las respuestas comunitarias sean más coordinadas.
+Además, una API puede permitir que distintos grupos aporten información de manera ordenada y segura.
+Así, la comunidad puede construir un sistema común de información confiable y fácil de mantener.

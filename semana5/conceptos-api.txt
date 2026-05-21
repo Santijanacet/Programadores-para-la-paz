@@ -1,0 +1,3 @@
+Ruta POST /agg:
+  - Qué hace esta ruta: recibiría datos enviados desde el cliente para agregarlos al servidor, por ejemplo información de una nueva publicación, evento o miembro.
+  - Para qué podría servir en una aplicación comunitaria: permite que los usuarios envíen aportes nuevos, como sugerir actividades, compartir noticias o registrar personas en una agenda comunitaria.

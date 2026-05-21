@@ -1,0 +1,9 @@
+Ruta /:
+  - Responde con el texto "Servidor activo" para indicar que el servidor está funcionando.
+
+Ruta /saludo:
+  - Responde con el texto "Hola comunidad" como saludo general.
+
+Ruta /mensaje/:nombre:
+  - Toma un parámetro de ruta llamado nombre y responde con "Hola " seguido del valor recibido.
+  - Por ejemplo, /mensaje/Ana devuelve "Hola Ana".
