@@ -1,0 +1,13 @@
+Al realizar una petición POST a la ruta http://localhost:3000/reportes con los datos de un nuevo reporte, el servidor recibe los datos en formato JSON (usando express.json()), les asigna un ID único autoincremental en base a la longitud del arreglo y los agrega a un arreglo en memoria llamado `reportes`.
+
+Al consultar los reportes a través de una petición GET a la ruta http://localhost:3000/reportes, el servidor responde con el arreglo completo de reportes almacenados en formato JSON.
+
+Ejemplo de respuesta esperada al consultar GET /reportes:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]

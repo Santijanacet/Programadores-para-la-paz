@@ -1,0 +1,9 @@
+La implementación de plataformas tecnológicas para registrar y consultar incidencias
+comunitarias es fundamental para empoderar a la ciudadanía en la resolución
+de problemas locales. Este tipo de herramientas facilita un canal directo,
+rápido y transparente entre los vecinos y las entidades responsables del
+mantenimiento, optimizando los tiempos de respuesta ante fallas públicas.
+Asimismo, al permitir la consulta de reportes previos, se promueve la
+transparencia gubernamental y se evita la duplicidad de quejas sobre un
+mismo problema. En definitiva, la tecnología aplicada a la gestión social
+ayuda a construir entornos más seguros, organizados y participativos.
