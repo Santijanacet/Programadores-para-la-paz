@@ -1,0 +1,9 @@
+La recepción de información estructurada por parte de los ciudadanos es fundamental para
+el éxito de las plataformas de participación ciudadana y gestión pública. Cuando los
+datos ingresan en un formato predefinido como JSON, los sistemas informáticos pueden
+procesar, validar y almacenar la información de manera automática y sin errores de lectura.
+Esto facilita que reportes de incidencias se dirijan directamente al área encargada, como
+mantenimiento o alumbrado, reduciendo drásticamente los tiempos de respuesta del gobierno.
+Asimismo, la estructuración permite generar estadísticas, identificar zonas críticas mediante
+mapas de calor y priorizar los recursos públicos en base a datos reales. En definitiva,
+estructurar la voz del ciudadano transforma simples comentarios en decisiones eficientes.
