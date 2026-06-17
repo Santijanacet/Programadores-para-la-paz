@@ -1,0 +1,9 @@
+La estabilidad y seguridad de los servidores que alojan plataformas comunitarias
+son pilares indispensables para garantizar la confianza y participación de los
+usuarios. Cuando un servidor falla o se vuelve inestable, se interrumpe el acceso a
+herramientas cruciales de comunicación, reporte o coordinación local, lo cual puede
+desmotivar a los vecinos e incluso poner en riesgo la atención de emergencias.
+Por otro lado, la seguridad en el servidor protege los datos personales de la comunidad,
+evitando filtraciones, suplantaciones de identidad y ataques informáticos que vulneren
+su privacidad. Así, mantener un servidor robusto y monitoreado no es solo una tarea
+técnica, sino un compromiso social para sostener una convivencia segura y participativa.

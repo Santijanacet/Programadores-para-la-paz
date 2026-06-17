@@ -1,0 +1,16 @@
+Componentes del Servidor
+
+1. Sistema operativo
+Es el software principal que gestiona los recursos de hardware de la computadora, como la memoria y el procesador. Proporciona la infraestructura básica necesaria para que se ejecuten programas como Node.js y los servidores web.
+
+2. Node.js
+Es un entorno de ejecución de JavaScript que permite correr código JS del lado del servidor, fuera del navegador. Proporciona herramientas y módulos integrados para manejar operaciones de red, sistemas de archivos y peticiones HTTP de forma eficiente.
+
+3. Aplicación server.js
+Es el archivo de código fuente escrito en JavaScript que define la lógica de nuestro servidor web. Utiliza el framework Express para configurar las rutas, procesar las solicitudes entrantes y enviar las respuestas adecuadas al cliente.
+
+4. Puerto
+Es un punto de conexión lógico o dirección específica (como el puerto 3000) a través del cual la computadora recibe tráfico de red. Permite que múltiples aplicaciones o servicios web coexistan y se comuniquen en el mismo servidor sin interferir entre sí.
+
+5. Logs
+Son archivos de texto o registros generados por el servidor que documentan eventos importantes durante su ejecución. Sirven para rastrear actividades, monitorear el rendimiento del sistema y diagnosticar o depurar errores cuando algo no funciona correctamente.
