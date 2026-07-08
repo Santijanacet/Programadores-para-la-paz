@@ -1,0 +1,23 @@
+Entidad: Proyecto Comunitario
+
+Campos principales:
+- id
+- nombre
+- descripcion
+- fecha_creacion
+- categoria
+
+Propósito:
+Guardar las iniciativas que la comunidad quiere impulsar y que pueden recibir participación o seguimiento.
+
+Entidad: Participante
+
+Campos principales:
+- id
+- proyecto_id
+- nombre_usuario
+- rol
+- fecha_registro
+
+Propósito:
+Registrar a las personas que participan en cada proyecto para conocer su papel y su actividad dentro de la plataforma.

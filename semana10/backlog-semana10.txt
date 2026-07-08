@@ -1,0 +1,12 @@
+Prioridad alta:
+Como ciudadano quiero registrar una incidencia en la plataforma para dejar evidencia de un problema comunitario.
+
+Como coordinador quiero recibir alertas inmediatas por Telegram para revisar nuevos reportes de veeduría.
+
+Prioridad media:
+Como miembro de la comunidad quiero consultar el historial de reportes para hacer seguimiento a situaciones anteriores.
+
+Como voluntario quiero asignarme a una incidencia para apoyar su resolución o seguimiento.
+
+Prioridad baja:
+Como administrador quiero generar reportes agregados para analizar tendencias de problemas en la comunidad.
