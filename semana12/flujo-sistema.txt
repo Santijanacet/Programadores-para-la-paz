@@ -1,0 +1,7 @@
+1. El usuario ingresa al sistema y selecciona crear una nueva peticion.
+2. El sistema muestra un formulario sencillo para describir la causa a apoyar.
+3. El usuario completa los datos y envia la peticion con un solo clic.
+4. La peticinn se guarda en la base de datos y recibe un identificador.
+5. Otros ciudadanos pueden ver la peticion y apoyar con un clic en el boton correspondiente.
+6. El sistema cuenta los apoyos y actualiza el estado de la peticion.
+7. Cuando se alcanza la meta, el sistema genera un documento o resumen listo para presentar.

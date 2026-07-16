@@ -1,0 +1,15 @@
+Causa
+id
+titulo
+descripcion
+fecha
+
+Apoyo
+id
+causa_id
+nombre
+fecha
+
+Descripcion
+- Causa: representa una peticion o causa ciudadana que se quiere apoyar. Incluye un identificador unico, titulo, descripcion del problema y fecha de creacion.
+- Apoyo: registra cada apoyo recibido para una causa. Guarda su propio id, la referencia a la causa con causa_id, el nombre del apoyo y la fecha en que se realizo.
